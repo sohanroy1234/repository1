@@ -6,5 +6,6 @@ mul()
 DIV()
 astrik()
 fac()
+dividend()
 }
 
