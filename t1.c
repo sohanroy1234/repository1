@@ -5,5 +5,6 @@ sub()
 mul()
 DIV()
 astrik()
+fac()
 }
 
